@@ -1,7 +1,7 @@
 <br/>
 <p align="center">
   <a href="https://github.com/devmehmetakifv/CTFSetup">
-    <img src="ctfsetup.png" alt="Logo" width="80" height="80">
+    <img src="ctfsetup.png" alt="Logo" width="240" height="135">
   </a>
 
   <h3 align="center">CTFSetup</h3>

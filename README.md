@@ -19,9 +19,10 @@
     .
     <a href="https://github.com/devmehmetakifv/CTFSetup/issues">Request Feature</a>
   </p>
-</p>
 
 ![Contributors](https://img.shields.io/github/contributors/devmehmetakifv/CTFSetup?color=dark-green) ![Issues](https://img.shields.io/github/issues/devmehmetakifv/CTFSetup) ![License](https://img.shields.io/github/license/devmehmetakifv/CTFSetup)
+  
+</p>
 
 ## About The Project
 

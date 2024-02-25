@@ -1,0 +1,6 @@
+{
+    "ctf_player_name": "m4k",
+    "gobuster_wordlist_directory": "/usr/share/wordlists/dirb/common.txt",
+    "password_wordlist": "/usr/share/wordlists/rockyou.txt",
+    "nmap_scan_command": "nmap -sC -sV -oN"
+}

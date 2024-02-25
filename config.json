@@ -1,5 +1,0 @@
-{
-    "ctf_player_name": "m4k",
-    "gobuster_wordlist_directory": "/usr/share/wordlists/dirbuster/directory-list-2.3-medium.txt",
-    "password_wordlist": "/usr/share/wordlists/rockyou.txt"
-}

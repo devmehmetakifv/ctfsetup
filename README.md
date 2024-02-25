@@ -67,6 +67,8 @@ sudo python3 ctfsetup.py --name "CTF Name" --ip TARGET_IP
 
 ## Usage
 
+![Screenshot from 2024-02-25 10-52-26](https://github.com/devmehmetakifv/ctfsetup/assets/75534401/ec0f9ef2-6965-43c1-b792-4eb1e4cccb97)
+
 Example usages:
 * sudo python3 ctfsetup.py --name "Kabo CTF" --ip 10.10.10.180
 * sudo python3 ctfsetup.py --name "Locked CTF" --ip 10.15.92.160
